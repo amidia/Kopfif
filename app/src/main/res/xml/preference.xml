@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:onClick="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        android:key="term"
+        android:title="Terms of Service" />
+
+    <Preference
+        android:key="privacy"
+        android:title="Privacy policy" />
+
+    <Preference
+        android:key="send"
+        android:title="Send Feedback" />
+
+    <Preference
+        android:key="refresh"
+        android:title="Refresh" />
+
+    <Preference
+        android:key="share"
+        android:title="Share This App" />
+
+</PreferenceScreen>
